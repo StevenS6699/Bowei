@@ -4,9 +4,9 @@ I'm Steven, a passionate explorer of the digital realm and a code enthusiast. �
 
 ## About Me
 
-🎓 Graduating with a Master's in UofG.
-🌍 Constantly curious about the intersections of technology and creativity.    
-🚀 Eager to contribute to open-source projects and learn from the developer community.       
+🎓 Graduating with a Master's in UofG.    
+🌍 Constantly curious about the intersections of technology and creativity.         
+🚀 Eager to contribute to open-source projects and learn from the developer community.            
 
 ## Tech Toolbox
 
